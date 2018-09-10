@@ -1,0 +1,12 @@
+#colorlib-aside{
+  overflow-y:hidden !important;
+}
+#colorlib-hero .flexslider .slider-text > .slider-text-inner h1,
+#colorlib-hero .flexslider .slider-text > .slider-text-inner h2 {
+  color: white;
+}
+.work{
+background-color:black;
+Color:white;
+font-size: 16px
+}
